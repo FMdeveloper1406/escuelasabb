@@ -9,7 +9,7 @@ function chillHop() {
             cover: "https://www.audioescuelasabatica.com/wp-content/uploads/2022/12/Portada.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://archive.org/serve/y-2mate.com-pr-bullon-leccion-2-un-momento-del-destino/y2mate.com%20-%20Pr%20Bullon%20%20Lecci%C3%B3n%202%20%20Un%20Momento%20del%20Destino.mp3",
+            audio: "https://ia601601.us.archive.org/31/items/y-2mate.com-pr-bullon-leccion-3-el-evangelio-eterno/y2mate.com%20-%20Pr%20Bullon%20%20Lecci%C3%B3n%203%20El%20Evangelio%20Eterno.mp3",
             active: true,       
          },
         {   
