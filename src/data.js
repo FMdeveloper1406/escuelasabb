@@ -5,7 +5,7 @@ function chillHop() {
 
         {
             name:"Comentarios del Pastor Bullón",
-            artist: "Lección 02 – Un momento del destino",
+            artist: "Lección 03 – Un momento del destino",
             cover: "https://www.audioescuelasabatica.com/wp-content/uploads/2022/12/Portada.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
